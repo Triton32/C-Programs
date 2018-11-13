@@ -1,0 +1,12 @@
+Push A
+Push B
+Push C
+Push D
+Push E
+Push A
+Push 2
+Push 22
+PrintList
+Remove D
+PrintList
+Remove D

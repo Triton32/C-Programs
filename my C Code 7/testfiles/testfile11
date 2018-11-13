@@ -1,0 +1,13 @@
+Push A
+PrintList
+Push B
+PrintList
+Head
+Tail
+Length
+Push B
+Push A
+PrintList
+Head
+Tail
+Length

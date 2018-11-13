@@ -1,0 +1,10 @@
+Push C
+Push B
+Push A
+PrintList
+remove B
+Remove A
+PrintList
+Push S
+PrintList
+PrintList

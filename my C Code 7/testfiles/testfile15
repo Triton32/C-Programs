@@ -1,0 +1,9 @@
+Push C
+Push B
+Push A
+PrintList
+Remove B
+Remove Z
+PrintList
+Push Q
+PrintList
